@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, I have created simple interface for shopping mall:
 
-[FrontPage](https://github.com/thanhquangNg/shopping-cart/blob/master/image/frontpage.PNG)
+![FrontPage](https://github.com/thanhquangNg/shopping-cart/blob/master/image/frontpage.PNG)
 
 ### Cart Checkout
 
@@ -14,7 +14,7 @@ After clicking AddtoCart, the selected items will be stored in the cart and the 
 
 The cart interface will be looked like this
 
-[Cart](https://github.com/thanhquangNg/shopping-cart/blob/master/image/cart.PNG)
+![Cart](https://github.com/thanhquangNg/shopping-cart/blob/master/image/cart.PNG)
 
 ### Function for Checkout
 
